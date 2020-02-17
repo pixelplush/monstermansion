@@ -1,0 +1,32 @@
+{
+  "name": "monstermansion",
+  "version": "1.0.0",
+  "description": "Monster Mansion Survival Game! https://www.pixelplush.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelplush/monstermansion.git"
+  },
+  "keywords": [
+    "PixelPlush",
+    "Monster",
+    "Monster",
+    "Mansion",
+    "Instafluff",
+    "Maaya",
+    "MaayaInsane",
+    "Survival"
+  ],
+  "author": "PixelPlush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixelplush/monstermansion/issues"
+  },
+  "homepage": "https://github.com/pixelplush/monstermansion#readme",
+  "dependencies": {
+    "webwebweb": "^1.1.10"
+  }
+}
